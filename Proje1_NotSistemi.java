@@ -1,4 +1,9 @@
-
+/**
+ * Ad Soyad: EDANUR YASAK
+ * Öğrenci No: 250541018
+ * Proje:NOT SİSTEMİ
+ * Tarih: 21.11.2025
+ */
 import java.util.Scanner;
 
 public class StudentEvaluation {
@@ -110,4 +115,5 @@ public class StudentEvaluation {
         }
     }
 }
+
 
