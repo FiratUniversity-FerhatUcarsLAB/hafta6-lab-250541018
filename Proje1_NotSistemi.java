@@ -1,8 +1,4 @@
-Elbette, öğrencinin yazdığı kodda gereksiz yorum satırlarını ve fazladan boşlukları temizleyerek, **daha sade ve temel bir Java kodunu** aşağıda sunuyorum.
 
-Özellikle metot açıklamalarındaki (Javadoc) uzun metinleri ve `main` metodu içindeki gereksiz `print` ve `if-else` dallarını sadeleştirdim.
-
-```java
 import java.util.Scanner;
 
 public class StudentEvaluation {
@@ -114,3 +110,4 @@ public class StudentEvaluation {
         }
     }
 }
+
