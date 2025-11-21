@@ -1,3 +1,9 @@
+/**
+ * Ad Soyad: EDANUR YASAK
+ * Öğrenci No: 250541018
+ * Proje:SİNEMA BİLETİ
+ * Tarih: 21.11.2025
+ */
 import java.lang.Math;
 import java.util.Scanner; 
 
@@ -189,3 +195,4 @@ public class SinemaBiletSistemi {
         generateTicketInfo(gun, saat, yas, meslek, filmTuru);
     }
 }
+
